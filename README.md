@@ -6,3 +6,4 @@ Load balancing strategy
 Authentication protocol revision
 Feature usage analytics
 Database maintenance log
+Security policy update
